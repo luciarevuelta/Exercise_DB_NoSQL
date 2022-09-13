@@ -1,4 +1,4 @@
-# Ejercicio_resuleto_DB_NoSQL_MongoDB
+# Ejercicio_resuelto_DB_NoSQL_MongoDB
 
 # Introducción a MongoDB
 
